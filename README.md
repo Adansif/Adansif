@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **Junior Game Developer** passionate about c
 > **Style**: Top-view 32x32 pixel art  
 > **Description**: A 2D farm-sim with pixel art graphics, focusing on managing a farm and eventually the whole town. When the crashed ship awakens more villagers in this primitive world, players can go from managing zero to reaching space!
 
-[Repository](https://github.com/Adansif/Project-Ykarus)
+[Repository](https://preview.redd.it/you-didnt-say-the-magic-word-v0-mm24hdzgc5oa1.jpg?width=541&format=pjpg&auto=webp&s=7a40875dd1b6f86739c950e0ec3857dd7a2f105a)
 
 ---
 
