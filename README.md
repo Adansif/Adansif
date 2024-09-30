@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **Junior Game Developer** passionate about c
 
 ## 🚀 About Me
 
-- 🕹️ **Role**: Game Developer (Unity, Unreal Engine)
+- 🕹️ **Role**: Game Developer
 - 🎨 **Skills**: 
   - Programming in **C#**, **Lua**, **GDScript**
   - **Godot**, **Unity**, **Roblox**
