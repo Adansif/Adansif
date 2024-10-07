@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a **Junior Game Developer** passionate about c
 > **Technologies**: Godot, C#  
 > **Description**: A small game created for my class. It includes a single-player platform mode as well as a multiplayer mode where players compete to collect more fruits than the others.
 
-[Repository](https://github.com/Adansif/Project-B)
+[Repository](https://github.com/Adansif/Project-B)  ||  [API Repository](https://github.com/Adansif/De-Extinction-API) || [Web Repository](https://github.com/Carlos-Gabriel-Diaz-Zapata/De-Extinction-Web)
 
 ---
 
